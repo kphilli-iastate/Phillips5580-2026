@@ -1620,7 +1620,23 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis",
+        "fips": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -90.19791919698739,
+          38.62584038172869
+        ],
+        "type": "Point"
+      },
+      "id": 5
     }
   ]
 }
